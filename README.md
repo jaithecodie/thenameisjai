@@ -163,7 +163,7 @@ Agile / Scrum           ██████████████████�
 
 | | Credential | Issuer | Status |
 |:---:|:---|:---|:---:|
-| 🎓 | B.E. – Electronics & Communication Engineering | Bannari Amman Institute of Technology, TN | ✅ 2022 |
+| 🎓 | B.E. – Electronics & Communication Engineering | Bannari Amman Institute of Technology, TN | ✅ 2023 |
 | 🟠 | **Temenos Certified Developer** | Temenos Academy | ✅ Certified |
 | 🔵 | **SQL and Relational Databases** | IBM / Coursera | ✅ Certified |
 | 🟢 | **Banking Domain Fundamentals** | Internal Training | ✅ Certified |
