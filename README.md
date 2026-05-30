@@ -176,7 +176,7 @@ Agile / Scrum           ██████████████████�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayabharathi-muthurajan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=4A9FD4&icon_color=FF6B35&border_color=0e3356&bg_color=0d1117"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=jayabharathi-muthurajan](https://github.com/jaithecodie/thenameisjai/blob/main/README.md#-github-stats)&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=4A9FD4&icon_color=FF6B35&border_color=0e3356&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayabharathi-muthurajan&layout=compact&theme=github_dark&title_color=4A9FD4&border_color=0e3356&bg_color=0d1117"/>
 
 </div>
