@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:071829,60:0e3356,100:4A9FD4&height=220&section=header&text=JAYABHARATHI%20MUTHURAJAN&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=BFS%20Analyst%20%E2%80%A2%20Digital%20Banking%20Engineer%20%E2%80%A2%20Temenos%20Specialist&descAlignY=60&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,30:071829,60:0e3356,100:4A9FD4&height=220&section=header&text=JAYABHARATHI%20MUTHURAJAN&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=BFS%20Analyst%20%E2%80%A2%20Digital%20Banking%20Engineer%20%E2%80%A2%20Temenos%20Specialist&descAlignY=60&descSize=15&animation=fadeIn" />
 
-<!-- MATRIX TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=4A9FD4&center=true&vCenter=true&multiline=false&width=750&lines=git+commit+-m+"delivering+99.9%25+uptime+banking";npm+run+build:mobile-banking+%F0%9F%9A%80;SELECT+*+FROM+digital_banking+WHERE+defects+%3D+0;Temenos+Visualizer+%7C+Fabric+%7C+REST+APIs+%7C+Java;React+Native+%7C+Angular+%7C+TypeScript+%7C+SQL;Role+Star+Award+%F0%9F%8F%86+%E2%80%94+2+sprints+ahead+of+schedule)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=4A9FD4&center=true&vCenter=true&width=750&lines=git+commit+-m+"zero+defects+shipped+%F0%9F%9A%80";npm+run+build%3AThreadCult;SELECT+*+FROM+banking+WHERE+uptime+%3D+99.9;Temenos+Visualizer+%7C+Fabric+%7C+REST+APIs+%7C+Java;React+Native+%7C+Angular+%7C+TypeScript+%7C+SQL;%F0%9F%8F%86+Role+Star+Award+%E2%80%94+2+sprints+ahead)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- STATUS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=jayabharathi-muthurajan&label=Profile+Views&color=0e3356&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jaithecodie&label=Profile+Views&color=0e3356&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayabharathi-muthurajan)
 [![Gmail](https://img.shields.io/badge/Gmail-jaibharathi62156@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaibharathi62156@gmail.com)
 [![Temenos](https://img.shields.io/badge/Temenos-Certified_Developer-FF6B35?style=flat-square&logoColor=white)](https://www.temenos.com/academy)
+[![ThreadCult](https://img.shields.io/badge/Project-ThreadCult_App-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/jaithecodie/ThreadCult)
 [![BFS](https://img.shields.io/badge/Domain-Banking_%26_Financial_Services-1A3C6E?style=flat-square&logoColor=white)]()
 
 </div>
@@ -29,6 +27,7 @@ const Jayabharathi = {
   stack       : ["Java", "Angular", "React Native", "TypeScript", "SQL", "REST APIs"],
   domains     : ["Mobile Banking", "Internet Banking", "KYC", "Digital Payments", "e-Statements"],
   methodology : ["Agile", "Scrum", "SDLC", "UAT", "SIT", "CI/CD"],
+  projects    : ["ThreadCult — React Native Mobile App", "thenameisjai — Portfolio"],
   award       : "🏆 Role Star Award — 2 sprints ahead of schedule",
   uptime      : 99.9,   // % internet banking post-launch
   defects     : 0,      // critical post-deploy — always
@@ -93,7 +92,7 @@ const Jayabharathi = {
 ### ⚡ Methodology
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-444?style=for-the-badge&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-444444?style=for-the-badge&logoColor=white)
 ![UAT](https://img.shields.io/badge/UAT/SIT-7B2D8B?style=for-the-badge&logoColor=white)
 
 </div>
@@ -117,6 +116,15 @@ Agile / Scrum           ██████████████████�
 
 ---
 
+## 🛠️ Featured Projects
+
+| Project | Stack | Link | Description |
+|:---|:---|:---:|:---|
+| ⚛ **ThreadCult** | React Native · TypeScript | [![Repo](https://img.shields.io/badge/View-Repo-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/jaithecodie/ThreadCult) | Cross-platform mobile app built from scratch |
+| 🌐 **thenameisjai** | Markdown · GitHub | [![Repo](https://img.shields.io/badge/View-Repo-4A9FD4?style=flat-square&logo=github&logoColor=white)](https://github.com/jaithecodie/thenameisjai) | Personal portfolio & GitHub profile README |
+
+---
+
 ## 💼 Experience Timeline
 
 ```
@@ -135,7 +143,8 @@ Agile / Scrum           ██████████████████�
        → Sprint delivery, backlog grooming, release sign-off
   ✅  Led SIT + UAT QA cycles — regulatory compliance assured
        → Zero critical post-deployment defects
-  ✅  Delivered 3+ banking modules — 25% digital channel adoption growth
+  ✅  Delivered 3+ banking modules on time
+       → 25% improvement in digital channel adoption
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   🟣 INTERN  ·  Jan 2023 — Jul 2023
@@ -163,7 +172,7 @@ Agile / Scrum           ██████████████████�
 
 | | Credential | Issuer | Status |
 |:---:|:---|:---|:---:|
-| 🎓 | B.E. – Electronics & Communication Engineering | Bannari Amman Institute of Technology, TN | ✅ 2023 |
+| 🎓 | B.E. – Electronics & Communication Engineering | Bannari Amman Institute of Technology, TN | ✅ 2022 |
 | 🟠 | **Temenos Certified Developer** | Temenos Academy | ✅ Certified |
 | 🔵 | **SQL and Relational Databases** | IBM / Coursera | ✅ Certified |
 | 🟢 | **Banking Domain Fundamentals** | Internal Training | ✅ Certified |
@@ -176,14 +185,14 @@ Agile / Scrum           ██████████████████�
 
 <div align="center">
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=jayabharathi-muthurajan](https://github.com/jaithecodie/thenameisjai/blob/main/README.md#-github-stats)&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=4A9FD4&icon_color=FF6B35&border_color=0e3356&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayabharathi-muthurajan&layout=compact&theme=github_dark&title_color=4A9FD4&border_color=0e3356&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaithecodie&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=4A9FD4&icon_color=FF6B35&border_color=0e3356&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaithecodie&layout=compact&theme=github_dark&title_color=4A9FD4&border_color=0e3356&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jayabharathi-muthurajan&theme=github-dark-blue&border=0e3356&ring=FF6B35&fire=FF6B35&currStreakLabel=4A9FD4&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaithecodie&theme=github-dark-blue&border=0e3356&ring=FF6B35&fire=FF6B35&currStreakLabel=4A9FD4&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -196,6 +205,7 @@ Agile / Scrum           ██████████████████�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayabharathi_Muthurajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayabharathi-muthurajan)
 [![Gmail](https://img.shields.io/badge/Gmail-jaibharathi62156@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaibharathi62156@gmail.com)
 [![Temenos Academy](https://img.shields.io/badge/Temenos_Academy-Certified_Developer-FF6B35?style=for-the-badge&logoColor=white)](https://www.temenos.com/academy)
+[![ThreadCult](https://img.shields.io/badge/⚛_ThreadCult-React_Native_App-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/jaithecodie/ThreadCult)
 
 </div>
 
@@ -203,10 +213,10 @@ Agile / Scrum           ██████████████████�
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A9FD4,50:0e3356,100:0a0e1a&height=130&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A9FD4,50:0e3356,100:080c14&height=130&section=footer&animation=fadeIn" />
 
 **"I don't just build banking apps — I engineer trust at scale."** 🏦
 
-*⭐ Star my repos if you find them useful · Open to exciting BFS opportunities · Let's connect and build something great*
+*⭐ Star my repos · Open to exciting BFS opportunities · Let's connect and build something great*
 
 </div>
